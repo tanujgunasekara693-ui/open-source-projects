@@ -1,2 +1,2 @@
 # open-source-projects
-A collection of open-source applications and websites developed with modern technologies and AI-assisted development. 
+A collection of original open-source applications and websites, developed through independent programming, experimentation, and AI-assisted development. Built, improved, and maintained with a focus on creativity and practical software development.
